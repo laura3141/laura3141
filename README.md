@@ -1,4 +1,4 @@
-### Olá! Sou a Laura
+### Olá! Sou a Laura, estudante de Ciência da Computação de 21 anos, apaixonada por programação e tecnologia. Buscando aprofundar conhecimentos em linguagens como Python, Java e C++. 
 
 <div><p align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura3141&show_icons=true&theme=radical&count_private=true&bg_color=00000000&hide_border=true"/>
