@@ -1,12 +1,12 @@
 ### Olá! Sou a Laura
--🔭 Estudante de Ciência da Computação<br>  
--🌱 Estudando Java<br>  
--😄 Ela/Dela<br>  
-
+•🔭 Estudante de Ciência da Computação  
+•🌱 Estudando Java  
+•😄 Ela/Dela  
+<br>
 <div><p align="center">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura3141&show_icons=true&theme=aurat&count_private=true&bg_color=00000000&hide_border=true"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura3141&theme=aura&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laura3141&theme=aura&hide_border=true&background=EB545400&locale=pt_BR" alt="laura3141" /></p>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura3141&show_icons=true&theme=midnight-purple&count_private=true&bg_color=00000000&hide_border=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laura3141&theme=midnight-purple&bg_color=00000000&layout=compact&langs_count=168&hide_border=true"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laura3141&theme=midnight-purple&hide_border=true&background=EB545400&locale=pt_BR" alt="laura3141" /></p>
 </div>
 
 
