@@ -1,7 +1,7 @@
 ### Olá! Sou a Laura
-•🔭 Estudante de Ciência da Computação  
-•🌱 Estudando Java  
-•😄 Ela/Dela  
+• 🔭 Estudante de Ciência da Computação  
+• 🌱 Estudando Java  
+
 <br>
 <div><p align="center">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=laura3141&show_icons=true&theme=midnight-purple&count_private=true&bg_color=00000000&hide_border=true"/>
