@@ -1,6 +1,5 @@
 ### Olá! Sou a Laura
 • 🔭 Estudante de Ciência da Computação  
-• 🌱 Estudando Rust 
 
 <br>
 <div><p align="center">
