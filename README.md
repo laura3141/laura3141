@@ -3,7 +3,6 @@
 
 <br>
 <div><p align="center">
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laura3141&theme=midnight-purple&hide_border=true&background=EB545400&locale=pt_BR" alt="laura3141" /></p>
 </div>
 
